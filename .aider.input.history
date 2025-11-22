@@ -1,0 +1,472 @@
+
+# 2025-11-22 09:04:04.738420
++Code the following app
++```
++Create a fully featured Advanced Notes App with the following complete requirements:
++
++
++---
++
++1. Core Note Functions
++
++Create new notes
++
++Edit existing notes
++
++Delete notes
++
++Each note contains:
++
++Title
++
++Body text
++
++Optional color label
++
++
++Autosave changes in real time
++
++Duplicate note option
++
++
++
++---
++
++2. Note Organization
++
++Pin important notes so they appear at the top
++
++Sort notes by:
++
++Date created
++
++Date modified
++
++Alphabetical
++
++Pinned first
++
++
++Add folders for organizing notes
++
++Add tags (multiple tags per note)
++
++Filter notes by folder or tag
++
++Move notes between folders
++
++
++
++---
++
++3. Search & Navigation
++
++Global search bar
++
++Search by:
++
++Note title
++
++Note body
++
++Tag
++
++Folder
++
++
++Fast live-search results
++
++Easy navigation between:
++
++All notes
++
++Pinned notes
++
++Folders
++
++Tags
++
++Archived notes (if possible)
++
++
++
++
++---
++
++4. Enhanced Note Types
++
++Regular text note
++
++Checklist / To-Do note (checkbox style)
++
++Voice note recording
++
++Convert voice notes to text (transcription)
++
++Add photos or images inside notes
++
++Add links inside notes
++
++Rich text formatting:
++
++Bold
++
++Italic
++
++Bullet points
++
++Headings
++
++
++
++
++---
++
++5. Reminder System
++
++Add reminders to any note
++
++Set:
++
++Date
++
++Time
++
++Repeat (daily/weekly/monthly)
++
++
++Push or in-app notification alerts
++
++Reminder list page
++
++
++
++---
++
++6. Customization Options
++
++Color-coded notes (choose from multiple colors)
++
++Add custom themes:
++
++Light mode
++
++Dark mode
++
++AMOLED mode (optional)
++
++
++Custom font size for readability
++
++Drag-and-drop note rearranging
++
++
++
++---
++
++7. Security Features
++
++Lock individual notes with:
++
++PIN
++
++Password
++
++Biometric (fingerprint/Face ID if supported)
++
++
++Hidden/private folder for locked notes
++
++
++
++---
++
++8. Data Storage & Sync
++
++Local storage saving
++
++Optional cloud sync (simple implementation)
++
++Export notes as:
++
++TXT
++
++PDF
++
++
++Backup and restore feature
++
++
++
++---
++
++9. User Interface Requirements
++
++Clean, modern, minimal UI
++
++Smooth animations
++
++Easy to use bottom navigation bar
++
++Notes grid view and list view toggle
++
++Beautiful spacing, rounded cards, simple colors
++
++Fast and responsive for mobile users
++
++Include empty state illustrations for:
++
++No notes
++
++No pinned notes
++
++No search results
++
++
++
++
++---
++
++10. Overall Goal
++
++Build a powerful, organized, and user-friendly notes app with advanced features such as folders, tags, reminders, voice notes, security locks, color coding, and a smooth modern UI that makes note-taking easy, secure, and efficient.”
++
++```
++
++Generate an app logo and update the app metadata title and description.
+
+# 2025-11-22 09:04:04.739265
++Code the following app
++```
++Create a fully featured Advanced Notes App with the following complete requirements:
++
++
++---
++
++1. Core Note Functions
++
++Create new notes
++
++Edit existing notes
++
++Delete notes
++
++Each note contains:
++
++Title
++
++Body text
++
++Optional color label
++
++
++Autosave changes in real time
++
++Duplicate note option
++
++
++
++---
++
++2. Note Organization
++
++Pin important notes so they appear at the top
++
++Sort notes by:
++
++Date created
++
++Date modified
++
++Alphabetical
++
++Pinned first
++
++
++Add folders for organizing notes
++
++Add tags (multiple tags per note)
++
++Filter notes by folder or tag
++
++Move notes between folders
++
++
++
++---
++
++3. Search & Navigation
++
++Global search bar
++
++Search by:
++
++Note title
++
++Note body
++
++Tag
++
++Folder
++
++
++Fast live-search results
++
++Easy navigation between:
++
++All notes
++
++Pinned notes
++
++Folders
++
++Tags
++
++Archived notes (if possible)
++
++
++
++
++---
++
++4. Enhanced Note Types
++
++Regular text note
++
++Checklist / To-Do note (checkbox style)
++
++Voice note recording
++
++Convert voice notes to text (transcription)
++
++Add photos or images inside notes
++
++Add links inside notes
++
++Rich text formatting:
++
++Bold
++
++Italic
++
++Bullet points
++
++Headings
++
++
++
++
++---
++
++5. Reminder System
++
++Add reminders to any note
++
++Set:
++
++Date
++
++Time
++
++Repeat (daily/weekly/monthly)
++
++
++Push or in-app notification alerts
++
++Reminder list page
++
++
++
++---
++
++6. Customization Options
++
++Color-coded notes (choose from multiple colors)
++
++Add custom themes:
++
++Light mode
++
++Dark mode
++
++AMOLED mode (optional)
++
++
++Custom font size for readability
++
++Drag-and-drop note rearranging
++
++
++
++---
++
++7. Security Features
++
++Lock individual notes with:
++
++PIN
++
++Password
++
++Biometric (fingerprint/Face ID if supported)
++
++
++Hidden/private folder for locked notes
++
++
++
++---
++
++8. Data Storage & Sync
++
++Local storage saving
++
++Optional cloud sync (simple implementation)
++
++Export notes as:
++
++TXT
++
++PDF
++
++
++Backup and restore feature
++
++
++
++---
++
++9. User Interface Requirements
++
++Clean, modern, minimal UI
++
++Smooth animations
++
++Easy to use bottom navigation bar
++
++Notes grid view and list view toggle
++
++Beautiful spacing, rounded cards, simple colors
++
++Fast and responsive for mobile users
++
++Include empty state illustrations for:
++
++No notes
++
++No pinned notes
++
++No search results
++
++
++
++
++---
++
++10. Overall Goal
++
++Build a powerful, organized, and user-friendly notes app with advanced features such as folders, tags, reminders, voice notes, security locks, color coding, and a smooth modern UI that makes note-taking easy, secure, and efficient.”
++
++```
++
++Generate an app logo and update the app metadata title and description.
